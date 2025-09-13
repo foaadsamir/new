@@ -1,3 +1,1 @@
-"this is first line "
-sec line updated from gitgup
-third line from githup
+"hello from the first branch"
